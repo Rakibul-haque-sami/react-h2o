@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "name": "sami",
@@ -107,4 +108,115 @@
         "position": "member",
         "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
     }
+=======
+[
+    {
+        "name": "sami",
+        "country": "bangladesh",
+        "Rank": "1st",
+        "cash": 200,
+        "key": 1,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "kawsar",
+        "country": "bangladesh",
+        "Rank": "4th",
+        "cash": 297,
+        "key": 2,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "khasru",
+        "country": "bangladesh",
+        "Rank": "2nd",
+        "cash": 290,
+        "key": 3,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "usama",
+        "country": "bangladesh",
+        "Rank": "3rd",
+        "cash": 300,
+        "key": 4,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "sajid",
+        "country": "bangladesh",
+        "Rank": "5th",
+        "cash": 400,
+        "key": 5,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "joy",
+        "country": "bangladesh",
+        "Rank": "7th",
+        "cash": 229,
+        "key": 6,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "iqbal",
+        "country": "bangladesh",
+        "Rank": "6th",
+        "cash": 230,
+        "key": 7,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "fuad",
+        "country": "bangladesh",
+        "Rank": "9th",
+        "cash": 293,
+        "key": 12,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "emon",
+        "country": "bangladesh",
+        "Rank": "8th",
+        "cash": 259,
+        "key": 8,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "khaled",
+        "country": "bangladesh",
+        "Rank": "11th",
+        "cash": 233,
+        "key": 9,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "fahim",
+        "country": "bangladesh",
+        "Rank": "10th",
+        "cash": 252,
+        "key": 10,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    },
+    {
+        "name": "saju",
+        "country": "bangladesh",
+        "Rank": "12th",
+        "cash": 239,
+        "key": 11,
+        "position": "member",
+        "img": "https://img.freepik.com/free-vector/swimmer_1308-82627.jpg?t=st=1649480685~exp=1649481285~hmac=e5d0136d311bca130863da3641d6885cec2a2c2a83e81d5a5ebed78ca2468cfd&w=740"
+    }
+>>>>>>> eef872ad41ecbf2e138463654d8874623eb986b0
 ]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cash-summary {
     margin-top: 40px;
     position: -webkit-sticky;
@@ -7,4 +8,15 @@
 
 .cash-summary span {
     font-size: larger;
+=======
+.cash-summary {
+    margin-top: 40px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.cash-summary span {
+    font-size: larger;
+>>>>>>> eef872ad41ecbf2e138463654d8874623eb986b0
 }

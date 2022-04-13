@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .clubDetails-container {
     display: grid;
     grid-template-columns: 3fr 1fr;
@@ -8,4 +9,16 @@
     grid-template-columns: repeat(3, 1fr);
     border-right: 2px solid rgb(168, 177, 39);
     margin-right: 10px;
+=======
+.clubDetails-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.members-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-right: 2px solid rgb(168, 177, 39);
+    margin-right: 10px;
+>>>>>>> eef872ad41ecbf2e138463654d8874623eb986b0
 }
